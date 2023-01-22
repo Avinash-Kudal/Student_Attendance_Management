@@ -1,2 +1,2 @@
-# Student_Attendance_Management
-In this Project I use python ,Django(Framework), SQLite(Database).  
+# Student_Attendance_Management_system
+Student attendance management system is a tool that helps to collect and update  the all Data of student in a system, due to this system it is easy to manage the data. In this project we create some webpages like Home, Add, Display, Update, contact etc. In add page we can add the information of student in our system, we can easily see the data of student on Display page, we can easily Update the data and delete data.
